@@ -1,0 +1,13 @@
+# Risk Management Dashboard — Python dependencies
+# Install: pip install -r requirements.txt
+
+pandas>=2.0.0
+numpy>=1.24.0
+yfinance>=0.2.40
+scipy>=1.10.0
+PyPortfolioOpt>=1.5.0
+statsmodels>=0.14.0
+streamlit>=1.28.0
+plotly>=5.0.0
+pymc>=5.0.0
+ta>=0.11.0

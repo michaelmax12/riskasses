@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Logs (created by src/Helper.py)
+*.log
+error_download.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets (never commit credentials)
+.streamlit/secrets.toml
+
+# Jupyter / pytest
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
