@@ -10,7 +10,7 @@ Streamlit app for portfolio risk analysis: Monte Carlo simulation, efficient fro
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Risk_Management.git
+git clone https://github.com/noprague/Risk_Management.git
 cd Risk_Management
 
 python -m venv .venv
@@ -49,4 +49,4 @@ Risk_Management/
 
 ## License
 
-Add your license here if you publish the repository.
+This project is licensed under the [MIT License](LICENSE) — Copyright (c) 2026 Wira.
